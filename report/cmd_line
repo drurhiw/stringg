@@ -1,1 +1,0 @@
-genhtml -o report/ gcov_test.info
